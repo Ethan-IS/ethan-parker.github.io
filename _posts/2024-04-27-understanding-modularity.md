@@ -26,7 +26,7 @@ iOS 개발 문화가 성숙해지고 인력이 늘어남에 따라 대부분의 
 
 <br>
 
-# Why) 왜 모듈화를 해야하는가
+## Why) 왜 모듈화를 해야하는가
 ### 증가하는 코드의 양
 
 코드가 증가함에 따라 확장성, 가독성 및 전반적인 코드 품질이 떨어지는 경우가 많습니다. 모듈화를 통해 관심사를 분리하고 코드를 논리적 단위로 나누면 복잡성을 줄일 수 있습니다.
@@ -131,7 +131,7 @@ iOS 개발 문화가 성숙해지고 인력이 늘어남에 따라 대부분의 
 
 <br>
 
-# What) 모듈화란 무엇인가
+## What) 모듈화란 무엇인가
 > 모듈형 프로그래밍은 프로그램의 기능을 독립적이고 교체 가능한 모듈로 분리하는 것을 강조하는 소프트웨어 설계 기법
 
 ![iOS 모듈화](/assets/img/tuist_01/app_modulization.png)
@@ -145,7 +145,7 @@ iOS 개발 문화가 성숙해지고 인력이 늘어남에 따라 대부분의 
 
 <br>
 
-# How) 그럼 어떻게 모듈을 나누어야 할까
+## How) 그럼 어떻게 모듈을 나누어야 할까
 
 ### 원칙
 
@@ -257,12 +257,12 @@ Build Configuration을 통해 단일 앱 모듈을 다양한 바이너리로 컴
 
 InnoSquad iOS 팀에서 다시 한번 정리하고 갈 수 있는 소중한 시간이었습니다.
 
-다음에는 Tuist를 통해서 기본적이고 기초적인 모듈화 방식에 대해 알아보겠습니다.
+다음에는 [Tuist를 통해서 기본적이고 기초적인 모듈화 방식](https://ethan-is.github.io/posts/tuist-modularization-basics)에 대해 알아보겠습니다.
 
 
 ---
 
-### 참고링크
+## 참고링크
 
 - [안드로이드 공식 가이드](https://developer.android.com/topic/modularization/patterns?hl=ko)
 - [Tuist 사용 중인 기업 블로그들](https://www.codenary.co.kr/techblog/list?tag=tuist)
